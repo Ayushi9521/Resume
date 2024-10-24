@@ -32,8 +32,11 @@ main {
   grid-template-columns: 40% 60%;
   margin-top: 3em;
 }
-.fw-600{
+.fw-800{
   font-weight: 800;
+}
+.fw-600{
+  font-weight: 600;
 }
 section {
     margin: auto 1em 4em 2em;
